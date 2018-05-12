@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40086
     wikipedia: http://de.wikipedia.org/wiki/Michael_Georg_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39565#In-Purpurner-Finsterni-Roman-Improvisation-aus-dem-drei-igsten-Jahrhundert
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-04-29'
 gutenberg_type: Text
